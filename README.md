@@ -24,4 +24,8 @@ convolution layers, we have the fully connect neural network
 with one hidden layer and output layer
 
 ![Model Summary](model_summary.png)
+
+## Training Phase
+![Learning Curve](learning_curve_cnn.png)
+
   
