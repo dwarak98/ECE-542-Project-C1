@@ -23,5 +23,5 @@ added for a smooth learning process. On top of these
 convolution layers, we have the fully connect neural network
 with one hidden layer and output layer
 
-![Model Summary](Screenshot-2019-12-02-at-6.04.21-PM.png)
+![Model Summary](model_summary.png)
   
