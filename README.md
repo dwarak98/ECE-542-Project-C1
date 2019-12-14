@@ -5,8 +5,8 @@ Weather stress and climate change are major challenges for agriculture. Drought 
 
 ## Contents
 
-- [Using Transfer Learning Models like ResNet](README.md#Using Transfer Learning Models like ResNet)
-- [CNN Network from Scratch](README.md#CNN Network from Scratch)
+- [Using Transfer Learning Models like ResNet](README.md#Using-Transfer-Learning-Models-like-ResNet)
+- [CNN Network from Scratch](README.md#CNN-Network-from-Scratch)
 
 ## Using Transfer Learning Models like ResNet
 
